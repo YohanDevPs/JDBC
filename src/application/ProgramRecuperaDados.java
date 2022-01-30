@@ -7,8 +7,8 @@ import java.sql.Statement;
 
 import db.DB;
 
-
-public class Program {
+//Programa para RECUPERAR DADOS!!
+public class ProgramRecuperaDados {
 
 	public static void main(String[] args) {
 		
