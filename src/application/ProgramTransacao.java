@@ -15,14 +15,16 @@ public class ProgramTransacao {
 		try {
 			conn = DB.getConnection();
 			
+			conn.setAutoCommit(false);
+			
 			st = conn.createStatement();
 			
 			int rows1 = st.executeUpdate("UPDATE seller SET BaseSalary = 2090 WHERE DepartmentId = 1");
 		
-//			int x = 1;
-//			if(x < 2) {
-//				throw new SQLException("Fake error");
-//			}
+			int x = 1;
+			if(x < 2) {
+				throw new SQLException("Fake error");
+			}
 			
 			int rows2 = st.executeUpdate("UPDATE seller SET BaseSalary = 3090 WHERE DepartmentId = 2");
 			
