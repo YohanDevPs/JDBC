@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d442821d-ef21-4b52-9f81-7310e51c693a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/ProgramDeletarDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/ProgramDeletarDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db/DbIntegrityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/DbIntegrityException.java" afterDir="false" />
-    </list>
+    <list default="true" id="d442821d-ef21-4b52-9f81-7310e51c693a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
